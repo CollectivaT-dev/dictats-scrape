@@ -1,10 +1,10 @@
 # dictats-scrape
 
-Scripts to scrape Gencat Dictats - tools for building a sentence-segmented speech corpus from Catalan government's language learning resource [_Dictats en línia_](https://llengua.gencat.cat/ca/serveis/aprendre_catala/recursos-per-al-professorat/dictats-en-linia/).
+Tools for building a sentence-segmented speech corpus from Catalan government's language learning resource [_Dictats en línia_](https://llengua.gencat.cat/ca/serveis/aprendre_catala/recursos-per-al-professorat/dictats-en-linia/).
 
 ## License Notice ⚠️
 
-**Important:** While this code can scrape and process the dictation materials, the content itself is subject to a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license as stated in the [credits page](https://llengua.gencat.cat/ca/serveis/aprendre_catala/recursos-per-al-professorat/dictats-en-linia/credits/).
+**Important:** While this code can scrape and process publicly accessible materials, the content itself is subject to a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license as stated in the [credits page](https://llengua.gencat.cat/ca/serveis/aprendre_catala/recursos-per-al-professorat/dictats-en-linia/credits/).
 
 This license means:
 - You must give appropriate credit
@@ -12,7 +12,7 @@ This license means:
 - You cannot distribute modified versions or derivatives of the materials
 
 **Therefore, while this tool can create a corpus for research purposes, the resulting data cannot be:**
-- Used to train TTS models (considered a derivative work)
+- Used to train speech models (considered a derivative work)
 - Used commercially
 - Redistributed in modified form
 
